@@ -16,5 +16,11 @@ To see the configuration:
 <p>Cloning git into local machine:
 <pre><code>git clone https://repo-link</code></pre>
 <p>To list files, we write <code>ls</code> in git bash or in VS Code terminal. To see hidden files, we write <code>ls -a</code>.</p>
-<code>git status</code> returns branch etc about current git detail like branch etc.
+<p><code>git status</code> returns branch etc about current git detail like branch etc. It also gives informations like committed or not, file modified or not etc.</p>
+<p>Untracked means a new new file git does not yet tracked. <code>Modified</code> means changed
+, <code>staged</code> means file is read to be commited. <code> Unmodified means unchanged.</p>
+<p>How to add for commit:</p> <pre><code>git add filename</code></pre>
+<p>To add all files:<pre><code>git add .</code></pre></p>
+<p> Pushing to server</p>
+<pre><code>git push original main</code></pre>
 
