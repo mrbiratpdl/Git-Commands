@@ -7,11 +7,10 @@
 
 <p>Commands to configure the account:</p>
 
-<p>Set a new username:</p>
-<pre><code>git config --global user.name "mrbiratpdl"</code></pre>
-
+<p>Set a new username:(may have your github username)</p>
+<pre><code>git config --global user.name "username"</code></pre>
 <p>Set a new email address:</p>
-<pre><code>git config --global user.email "mr.biratpdl@gmail.com"</code></pre>
+<pre><code>git config --global user.email "email@mail.com"</code></pre>
 
 <p>To see the configuration:</p>
 <pre><code>git config --list</code></pre>
