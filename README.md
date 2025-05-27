@@ -19,8 +19,9 @@ To see the configuration:
 <p><code>git status</code> returns branch etc about current git detail like branch etc. It also gives informations like committed or not, file modified or not etc.</p>
 <p>Untracked means a new new file git does not yet tracked. <code>Modified</code> means changed
 , <code>staged</code> means file is read to be commited. <code> Unmodified means unchanged.</p>
-<p>How to add for commit: <pre><code>git add filename</code></pre></p> 
+<p>How to add specific file:<pre><code>git add filename</code></pre></p>
 <p>To add all files:<pre><code>git add .</code></pre></p>
+<p>Comitting changes:<pre><code>git commit -m "some message"</code></pre></p>
 <p> Pushing to server: <pre><code>git push original main</code></pre></p>
 
 
