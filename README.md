@@ -22,6 +22,6 @@ To see the configuration:
 <p>How to add specific file:<pre><code>git add filename</code></pre></p>
 <p>To add all files:<pre><code>git add .</code></pre></p>
 <p>Comitting changes:<pre><code>git commit -m "some message"</code></pre></p>
-<p> Pushing to server: <pre><code>git push original main</code></pre></p>
+<p> Pushing to server: <pre><code>git push origin main</code></pre></p>
 adding..
  <p>-----------The end------------</p>
