@@ -10,8 +10,9 @@
 </code></pre>
 To see the configuration:
 <pre><code>$ git config --list</code></pre>
-<code>~</code> indicates in git bash command that we are in root directory. <br>
-Term: <code>Local</code> means local machine and term: <code>remote</code> means <code>github.com</code>.
-<p>Cloning git into local machine: </p>
-<code>git clone https://repo-link</code>
+<p>
+<code>~</code> indicates in git bash command that we are in root directory. </p>
+<p>Term: <code>Local</code> means local machine and term: <code>remote</code> means <code>github.com</code>.</p>
+<p>Cloning git into local machine:
+<pre><code>git clone https://repo-link</code></pre>
 
