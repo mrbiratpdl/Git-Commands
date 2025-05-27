@@ -11,3 +11,4 @@
 To see the configuration:
 <pre><code>$ git config --list</code></pre>
 <code>~</code> indicates in git bash command that we are in root directory.
+Term: <code>Local</code> means local machine and term: <code>remote</code> means <code>github.com</code>.
