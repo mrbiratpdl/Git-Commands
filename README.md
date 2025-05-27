@@ -21,6 +21,6 @@ To see the configuration:
 , <code>staged</code> means file is read to be commited. <code> Unmodified means unchanged.</p>
 <p>How to add for commit:</p> <pre><code>git add filename</code></pre>
 <p>To add all files:<pre><code>git add .</code></pre></p>
-<p> Pushing to server</p>
-<pre><code>git push original main</code></pre>
+<p> Pushing to server: <pre><code>git push original main</code></pre></p>
+
 
