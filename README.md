@@ -1,4 +1,10 @@
 <h1>Welcome to My Repository</h1>
-A demo repository for testing
-<pre><code>Console.log("initializing...");</code></pre>
-Made by Birat
+<h2>Working with git</h2>
+<p>When installing git, we select work as command prompt not with software.</p>
+<h2>Git Commands</h2>
+<p>Commands to configure the account:</p>
+<p>Create a new user id:</p>
+<pre><code>$ git config --global user.name "mrbiratpdl"</code></pre> 
+<p>Create a new email:</p>
+<pre><code>git config --global user.email "mr.biratpdl@gmail.com"
+</code></pre>
