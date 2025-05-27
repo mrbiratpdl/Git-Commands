@@ -8,3 +8,5 @@
 <p>Create a new email:</p>
 <pre><code>git config --global user.email "mr.biratpdl@gmail.com"
 </code></pre>
+To see the configuration:
+<pre><code>$ git config --list</code></pre>
