@@ -15,4 +15,6 @@ To see the configuration:
 <p>Term: <code>Local</code> means local machine and term: <code>remote</code> means <code>github.com</code>.</p>
 <p>Cloning git into local machine:
 <pre><code>git clone https://repo-link</code></pre>
+<p>To list files, we write <code>ls</code> in git bash or in VS Code terminal. To see hidden files, we write <code>ls -a</code>.</p>
+<code>git status</code> returns branch etc about current git detail like branch etc.
 
