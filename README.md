@@ -23,5 +23,5 @@ To see the configuration:
 <p>To add all files:<pre><code>git add .</code></pre></p>
 <p>Comitting changes:<pre><code>git commit -m "some message"</code></pre></p>
 <p> Pushing to server: <pre><code>git push original main</code></pre></p>
-
-
+adding..
+ <p> Testing again</p>
