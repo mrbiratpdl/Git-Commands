@@ -45,3 +45,7 @@
 
 <p>To push to the remote repository:</p>
 <pre><code>git push origin main</code></pre>
+<p>To add the existing repository:</p>
+<pre><code>git remote add origin https://link.git</code></pre>
+<p>To see / verify which repository is currently running:</p>
+<pre><code>git remote -v</code></pre>
