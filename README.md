@@ -1,7 +1,7 @@
 <h1>List of Github Commands</h1>
 
 <h2>Working with Git</h2>
-<p>When installing Git, we choose to work with the command prompt rather than using additional software.</p>
+<p>While installing Git bash, we select to work with the <code>command prompt</code> rather than using additional software.</p>
 
 <h2>Git Commands</h2>
 
